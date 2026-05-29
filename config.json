@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsync",
+        "uuid": 2083112,
+        "checksum": "34wkpt"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
